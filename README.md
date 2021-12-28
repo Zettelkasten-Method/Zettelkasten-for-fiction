@@ -1,4 +1,4 @@
-# Zettelkasten-fuer-schriftsteller
+# Zettelkasten for Fiction Writing
 
 These are some tools for fiction writer's.
 
