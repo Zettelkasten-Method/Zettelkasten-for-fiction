@@ -89,7 +89,7 @@
 - Jugend
 	- Erste romantische Erfahrung? Liebe? (Vielleicht auch in der Kindheit)
 	- Erste sexuelle Erfahrung?
-- Junger Erwachener
+- Junger Erwachsener
 - Erwachsener
 - Alter Erwachsener (50er)
 - Lebensabend
@@ -338,4 +338,3 @@ Ausgestaltung des Charakternetz.................................[[202108180846]]
   - Vorbild oder Identifikation?
 
 <!--TODO Alle Punkt umformen, sodass [C] erwähnt wird -->
-
